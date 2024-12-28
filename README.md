@@ -6,6 +6,8 @@ First Hugging Face integration of minGRU models from the paper "[**Were RNNs All
 
 Hugging Face Model Collection: [minGRU Models](https://huggingface.co/collections/suayptalha/mingru-676fe8d90760d01b7955d7ab)
 
+Make sure you have installed "[**minGRU-pytorch**](https://github.com/lucidrains/minGRU-pytorch)" library by running "pip install minGRU-pytorch".
+
 # Credits:
 
 https://arxiv.org/abs/2410.01201
